@@ -1,7 +1,7 @@
 {
 'name': 'To-Do App',
 'description': 'Manage To-Do tasks.',
-'author': 'Rolando',
+'author': 'Daniel Reis',
 'depends': ['base'],
 'data': [
 	'security/ir.model.access.csv',
